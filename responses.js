@@ -35,7 +35,8 @@ module.exports = [
             + "And some, I assume, are good people.",
             "Mexico is becoming the new China!",
             "Mexico’s totally corrupt government looks horrible with El Chapo’s"
-            + " escape—totally corrupt. U.S. paid them $3 billion."
+            + " escape—totally corrupt. U.S. paid them $3 billion.",
+            "I have a great relationship with the Mexican people."
         ]
     },
     {
@@ -64,7 +65,11 @@ module.exports = [
             + "million myself. That's a huge advantage. I must tell you, that's a " 
             + "huge advantage over the other candidates.",
             "Money was never a big motivation for me, except as a way to keep score."
-            + " The real excitement is playing the game."
+            + " The real excitement is playing the game.",
+            "I'm a self made man. Except for the 100 million my father gave me.",
+            "You know the funny thing, I don't get along with rich people. I get "
+            + "along with the middle class and the poor people better than I get "
+            + "along with the rich people."
         ]
     },
     {
@@ -74,7 +79,8 @@ module.exports = [
             "Sorry losers and haters, but my I.Q. is one of the highest—and you all "
             + "know it! Please don’t feel so stupid or insecure. It’s not your fault.",
             "As everybody knows, but the haters & losers refuse to acknowledge, I do not "
-            + "wear a “wig.” My hair may not be perfect, but it’s mine."
+            + "wear a “wig.” My hair may not be perfect, but it’s mine.",
+            "When somebody challenges you, fight back. Be brutal, be tough."
         ]
     },
     {
@@ -162,7 +168,9 @@ module.exports = [
             + "the nominee, I pledge I will not run as an independent.",
             "The other candidates — they went in, they didn’t know the air conditioning didn’t work. They sweated"
             + "like dogs. They didn’t know the room was too big because they didn’t have anybody there. How are they"
-            + "gonna beat ISIS? I don’t think it’s gonna happen."
+            + "gonna beat ISIS? I don’t think it’s gonna happen.",
+            "My whole life is about winning. I don't lose often. I almost never lose.",
+            "What separates the winners from the losers is how a person reacts to each new twist of fate."
         ]
     },
     {
@@ -180,7 +188,9 @@ module.exports = [
     {
         "keywords": ["win", "lose", "war", "battle"],
         "messages": [
-            "Sometimes by losing a battle you find a new way to win the war."
+            "Sometimes by losing a battle you find a new way to win the war.",
+            "Part of being a winner is knowing when enough is enough. Sometimes you have to give up the fight and walk "
+            + "away, and move on to something that's more productive."
         ]
     },
     {
